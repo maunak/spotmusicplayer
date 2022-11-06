@@ -8,6 +8,8 @@ body{
     background-image: linear-gradient(to bottom, #191a16, #252927, #343939, #46494b, #595a5c);
     height: 100vh;
     display: flex;
+    position:relative; 
+
     flex-direction: column;
     align-items: center;
     justify-content: center;
